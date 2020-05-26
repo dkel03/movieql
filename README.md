@@ -1,0 +1,2 @@
+# movieql
+graph ql practice
